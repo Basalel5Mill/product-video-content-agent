@@ -6,11 +6,7 @@
 
 ## Workflow Summary
 A conversational, end-to-end automation that transforms your product details into a polished marketing reel in minutes. From story generation and image prompts to voiceovers, music, and final publishing, this n8n workflow handles everything.
-
-<img src="https://primary-production-2548.up.railway.app/wp-content/uploads/2025/07/product-reel-post.png" alt="Product Reel Post" width="600"/>
-
-
----
+------
 
 ## Story
 > **You**: "I need a quick, engaging product video—but I have zero time to craft one."  
